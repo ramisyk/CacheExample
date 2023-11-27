@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ramisyuksel/RiderProjects/CacheExample/Redis.Caching/Redis.Caching.csproj": {}
+    "C:\\Users\\yur3bu\\source\\repos\\CacheExample\\Redis.Caching\\Redis.Caching.csproj": {}
   },
   "projects": {
-    "/Users/ramisyuksel/RiderProjects/CacheExample/Redis.Caching/Redis.Caching.csproj": {
+    "C:\\Users\\yur3bu\\source\\repos\\CacheExample\\Redis.Caching\\Redis.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ramisyuksel/RiderProjects/CacheExample/Redis.Caching/Redis.Caching.csproj",
+        "projectUniqueName": "C:\\Users\\yur3bu\\source\\repos\\CacheExample\\Redis.Caching\\Redis.Caching.csproj",
         "projectName": "Redis.Caching",
-        "projectPath": "/Users/ramisyuksel/RiderProjects/CacheExample/Redis.Caching/Redis.Caching.csproj",
-        "packagesPath": "/Users/ramisyuksel/.nuget/packages/",
-        "outputPath": "/Users/ramisyuksel/RiderProjects/CacheExample/Redis.Caching/obj/",
+        "projectPath": "C:\\Users\\yur3bu\\source\\repos\\CacheExample\\Redis.Caching\\Redis.Caching.csproj",
+        "packagesPath": "C:\\Users\\yur3bu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yur3bu\\source\\repos\\CacheExample\\Redis.Caching\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/ramisyuksel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yur3bu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
